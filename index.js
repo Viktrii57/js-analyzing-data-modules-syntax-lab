@@ -11,7 +11,7 @@ function combineUsers(...args) {
   }
 
   const today = new Date();
-  combinedObject.merge_date = format(today, '4/12/2026');
+  combinedObject.merge_date = format(today, '4/14/2026');
 
   return combinedObject;
 }
